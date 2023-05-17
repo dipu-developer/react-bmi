@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+## `Screenshote`
+![image](https://github.com/dipu-developer/react-bmi/assets/75806982/1b1fb166-c00b-473e-bba6-66d4fd4639f2)
 
 ### `npm test`
 
