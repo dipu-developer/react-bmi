@@ -1,3 +1,10 @@
+## Demo Links
+https://dipu-developer-bmi.netlify.app/
+
+## Screenshot
+![image](https://github.com/dipu-developer/react-bmi/assets/75806982/9a400f2e-658b-4b30-966e-e33fbaf56c55)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
